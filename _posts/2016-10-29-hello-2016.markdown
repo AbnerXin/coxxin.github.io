@@ -2,8 +2,8 @@
 layout:     post
 title:      "Welcome to Coconut Blog"
 subtitle:   " \"Hello World, Hello Blog\""
-date:       2016-10-30
-author:     "coconut"
+date:       2016-10-29
+author:     "Xin"
 tags:
     - 生活
 ---
