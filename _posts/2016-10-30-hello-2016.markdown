@@ -1,0 +1,16 @@
+---
+layout:     post
+title:      "Welcome to Coconut Blog"
+subtitle:   " \"Hello World, Hello Blog\""
+date:       2016-10-30
+author:     "coconut"
+tags:
+    - 生活
+---
+
+> “Just for fun. ”
+
+
+TBD
+
+
