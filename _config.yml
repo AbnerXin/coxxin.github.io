@@ -70,7 +70,7 @@ kramdown:
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "Aomine,  励志造造轮子什么的， Coconut， 闲来写字的地方。"
+sidebar-about-description: "闲来写字的地方。"
 sidebar-avatar: https://unsplash.it/400/400?random     # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
