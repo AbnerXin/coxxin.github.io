@@ -70,7 +70,7 @@ duoshuo_share: true                     # set to false if you want to use Commen
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "Xin， 16年7月毕业， 魔都上海的一个还未入门的程序员， 励志造造轮子什么的， Coconut， 闲来写字的地方。"
+sidebar-about-description: "Aomine,  励志造造轮子什么的， Coconut， 闲来写字的地方。"
 sidebar-avatar: https://unsplash.it/400/400?random     # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
